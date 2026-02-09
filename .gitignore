@@ -8,7 +8,5 @@ __pycache__/
 ex00/
 
 # Data files (optional, but recommended for large files)
-*.csv
 *.json
-
 *.sh
